@@ -25,14 +25,6 @@ bool cmp(pt &p, pt &q) {
     return p.y < q.y;
 }
 
-bool is_zero( lf x ){
-   return -EPS <= x && x <= EPS;
-}
-
-inline bool same ( lf a, lf b ) {
-  return a+EPS > b && b+EPS > a;
-}
-
 int ccw(pt& p1, pt& p2, pt& p3) {
   lf ans = (cross(p1 - p3, p2 - p3));
   if(-EPS <= ans && ans <= EPS)

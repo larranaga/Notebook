@@ -11,7 +11,7 @@
  }
 
 /* LCM */
-int LCM(int m, n){return (m*n)/__gcd(m, n); }
+int LCM(int m, n){return (m/__gcd(m, n)) * n; }
 
 
 int main(){

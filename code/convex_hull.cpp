@@ -45,7 +45,7 @@ vector<pt> convex_hull(vector<pt> P){
 	sort(P.begin(), P.end(), cmp);
 
 	for (int i = 0; i < n; i++) {
-		while (k >= 2 && ccw(H[k-2], H[k-1], P[i]) == 1) k--;
+		while (k >= 2 && ccw(H[k-2], H[k-1], P[i]) <= 0) k--;
 		H[k++] = P[i];
 	}
 

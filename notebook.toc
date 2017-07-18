@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Graphs}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Articulation points}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Biconected graph}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Bridges}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Tarjan SCC}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Fast Dijkstra's algorithm}{2}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Bellman Ford}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Eulerian Path}{3}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Topological sort}{4}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Kruskal's minimum spanning tree}{4}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Lowest Common ancestor}{5}{subsection.1.10}
+\contentsline {section}{\numberline {2}Geometry}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Geometry}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Geometry (Java)}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Convex Hull Monotone Chain}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Delaunay triangulation}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Delaunay triangulation ( java )}{10}{subsection.2.5}
+\contentsline {section}{\numberline {3}Data Structures}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Mo's algorithm}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Segment Trees with lazy propagation}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Segment Trees with lazy propagation (Java)}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Fenwick Tree}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Union Find (Short)}{13}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Union Find}{13}{subsection.3.6}
+\contentsline {section}{\numberline {4}Strings}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}KMP}{14}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Suffix Array}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Fast Fourier Transform (convolution)}{15}{subsection.4.3}
+\contentsline {section}{\numberline {5}Flows}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}Ford Fulkerson}{16}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Edmons Karp Min cut}{18}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Hopcroft karp's maximum bipartite matching}{19}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Maxmium bipartite matching (short but slower)}{19}{subsection.5.4}
+\contentsline {section}{\numberline {6}Math}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}general math tricks}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Miller Rabin's primality test}{20}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Pollard rho}{20}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}number theory general}{21}{subsection.6.4}
+\contentsline {section}{\numberline {7}Miscellaneous}{22}{section.7}
+\contentsline {subsection}{\numberline {7.1}c++ ios tricks}{22}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}java IO template and iterative binary search}{23}{subsection.7.2}

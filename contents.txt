@@ -1,0 +1,56 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+
+[Graphs]
+articulation_points.cpp	Articulation points
+biconected_graph.cpp	Biconected graph
+Bridges.cpp	Bridges
+tarjan_scc.cpp	Tarjan SCC
+FastDijkstra.cc	Fast Dijkstra's algorithm
+BellmanFord.cc	Bellman Ford
+EulerianPath.cc	Eulerian Path
+toposort.cpp	Topological sort
+Kruskal.cc	Kruskal's minimum spanning tree
+LCA.cc	Lowest Common ancestor
+
+
+[Geometry]
+Geometry.cc	Geometry
+JavaGeometry.java	Geometry (Java)
+convex_hull.cpp	Convex Hull Monotone Chain
+Delaunay.cc	Delaunay triangulation
+Delaunay.java	Delaunay triangulation ( java )
+
+
+[Data Structures]
+mo.cpp	Mo's algorithm
+segmentTrees.cpp	Segment Trees with lazy propagation
+segmentTreeLazy.java	Segment Trees with lazy propagation (Java)
+BIT.cc	Fenwick Tree
+UnionFind.cc	Union Find (Short)
+disjoint_set.cpp	Union Find
+
+
+[Strings]
+KMP.cc	KMP
+SuffixArray.cc	Suffix Array
+FFT.cc	Fast Fourier Transform (convolution)
+
+[Flows]
+Ford__fulkerson_max_flow.cpp	Ford Fulkerson
+Edmons_Karp_Min_cut.cpp	Edmons Karp Min cut
+Hopcroft_karp-Maxmium_Bipartite_matching.cpp	Hopcroft karp's maximum bipartite matching
+bipartite_matching.cpp	Maxmium bipartite matching (short but slower)
+
+[Math]
+math_general.cpp	general math tricks
+MillerRabin.cc	Miller Rabin's primality test
+Pollards_Rho.cpp	Pollard rho
+Euclid.cc	number theory general
+
+
+[Miscellaneous]
+IO.cc	c++ ios tricks
+JavaIO_binary.java	java IO template and iterative binary search

@@ -86,7 +86,7 @@ PII chinese_remainder_theorem(int m1, int r1, int m2, int r2) {
 
 // Chinese remainder theorem: find z such that
 // z % m[i] = r[i] for all i.  Note that the solution is
-// unique modulo M = lcm_i (m[i]).  Return (z, M). On 
+// unique modulo M = lcm_i (m[i]).  Return (z, M). On
 // failure, M = -1. Note that we do not require the a[i]'s
 // to be relatively prime.
 PII chinese_remainder_theorem(const VI &m, const VI &r) {

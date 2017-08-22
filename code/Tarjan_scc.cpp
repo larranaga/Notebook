@@ -5,7 +5,8 @@
  * visited =[false]
  * disc = [0]
  * low = [0]
- * parent = [-1]  */
+ * parent = [-1]
+ * tested on AIZU online Judge */
 
  void dfsSCC(vector<vector<int> > G, int u, int disc[], int low[], stack<int> *st, bool stackMember[]){
      static int time = 0;

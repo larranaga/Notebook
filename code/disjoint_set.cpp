@@ -1,52 +1,22 @@
-/*---------------- disjoint sets-----------*/
-#include<bits/stdc++.h>
-#define TAM 10000
+/*
+ * Disjoint set data structure, merge and find takes O(logN)
+ * tested on AIZU online Judge
+*/
 
+#include <iostream>
+#include <vector>
 using namespace std;
-
-class UnionFind{
-    private:
-        vector<int> p, rank, ssize;
-        int numSets;
-    public:
-        UnionFind(int N){
-            rank.assign(N, 0);
-            ssize.assign(N, 1);
-            numSets = N;
-            p.assign(N,0);
-            for(int i = 0; i < N; i++)
-                p[i] = i;
-        }
-        int findSet(int i){
-            return (p[i] == i)? i: (p[i] = findSet(p[i]));
-        }
-        bool isSameSet(int i, int j){
-            return findSet(i) == findSet(j);
-        }
-
-        void unionSet(int i, int j){
-            if(!isSameSet(i, j)){
-                numSets--;
-                int x = findset(i), y = findSet(j);
-                if(rank[x] > rank[y]){
-                    p[y] = x;
-                    ssize[x] += ssize[y];
-                }
-                else{
-                    p[x] = y;
-                    ssize[y] += ssize[x];
-                    if(rank[x] == rank[y])
-                        rank[y]++;
-                }
-
-            }
-        }
-
-        int numDisjointSets(){
-            return numSets;
-        }
-
-        int sizeOfSet(int i){
-            return ssize[findSet(i)];
-        }
-};
+int find(vector<int> &C, int x) { return (C[x] == x) ? x : C[x] = find(C, C[x]); }
+bool same(vector<int> &C, int x, int y){ return find(C, x) == find(C, y);}
+void merge(vector<int> &C, int x, int y) { C[find(C, x)] = find(C, y); }
+int main()
+{
+	int n = 5;
+	vector<int> C(n);
+	for (int i = 0; i < n; i++) C[i] = i;
+	merge(C, 0, 2);
+	merge(C, 1, 0);
+	merge(C, 3, 4);
+	for (int i = 0; i < n; i++) cout << i << " " << find(C, i) << endl;
+	return 0;
+}

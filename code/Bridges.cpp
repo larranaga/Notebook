@@ -1,32 +1,43 @@
 /* Tarjan Algorithm to find bridges
- * single dfs O(|v| + |e|)
+ * single dfs O(|v| + |E|)
  * visited =[false]
  * disc = [0]
  * low = [0]
- * parent = [-1]  */
+ * parent = [-1]
+ * the priority queue orders the bridges in ascending order,
+ * use the function like: bridges(0, &queue)
 
- void bridges(vector<vector<int> > G, int u, bool visited[], int disc[], int low[], int parent[], priority_queue< pair<int, int> > *bridge) {
+ * tested in AIZU online Judge
+ */
+#include<bits/stdc++.h>
 
-    static int time = 0;
+using namespace std;
 
-    int children = 0;
-    visited[u] = true;
+const int SIZE = 100013;
 
-    disc[u] = low[u] = ++time;
+typedef pair<int, int> pii;
 
-    for(int i = 0; i < G[u].size(); i++){
-        int v = G[u][i];
+bool visited[SIZE];
+int disc[SIZE], low[SIZE], parent[SIZE];
 
-        if(!visited[v]){
-            children++;
-            parent[v] = u;
-            bridges(G, v, visited, disc, low, bridge);
+vector<int> G[SIZE];
 
-            low[u] = min(low[u], low[v]);
 
-            if(low[v] > disc[u])bridge->push({u,v});
-        }
-        else if(v != parent[u])
-            low[u] = min(low[u], disc[v]);
+void bridges(int u, priority_queue<pii, vector<pii>, greater<pii> > *bridge){
+  static int time = 0;
+  int children = 0;
+  visited[u] = true;
+  disc[u] = low[u] = ++time;
+  for(int i = 0; i < G[u].size(); i++){
+    int v = G[u][i];
+    if(!visited[v]){
+      children++;
+      parent[v] = u;
+      bridges(v, bridge);
+      low[u] = min(low[u], low[v]);
+      if(low[v] > disc[u]) bridge->push({min(u,v),max(u,v)});
     }
+    else if(v != parent[u])
+      low[u] = min(low[u], disc[v]);
+  }
 }

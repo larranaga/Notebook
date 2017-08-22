@@ -8,49 +8,65 @@ articulation_points.cpp	Articulation points
 biconected_graph.cpp	Biconected graph
 Bridges.cpp	Bridges
 tarjan_scc.cpp	Tarjan SCC
-FastDijkstra.cc	Fast Dijkstra's algorithm
-BellmanFord.cc	Bellman Ford
+bellmanFord.cpp	Bellman Ford
 EulerianPath.cc	Eulerian Path
 toposort.cpp	Topological sort
-Kruskal.cc	Kruskal's minimum spanning tree
+minimum_spanning_tree.cpp	Kruskal's minimum spanning tree
 LCA.cc	Lowest Common ancestor
 
 
 [Geometry]
-Geometry.cc	Geometry
-JavaGeometry.java	Geometry (Java)
-convex_hull.cpp	Convex Hull Monotone Chain
-Delaunay.cc	Delaunay triangulation
-Delaunay.java	Delaunay triangulation ( java )
+basics.cpp	Basics
+circle.cpp	Circle
+centroid.cpp	Centroid
+closest_pair_points.cpp	Distance between closest points
+area2_pol.cpp	Area Of Polygon
+antipodal_points.cpp	Antipodal points
+semiplane_intersection.cpp	Semiplane Intersection
+contains.cpp	Point inside a Polygon
+convex_cut.cpp	Convex Cut
+polygon_width.cpp	Polygon width
+rectangle_union.cpp	Sweep Line (Rectangles)
+rectilinear_mst.cpp	Rectilinear minimum spanning tree
+point3d.cpp	Points 3d
+convex_hull3d.cpp	Convex Hull 3d
+line_segment_intersections.cpp	intersections
+minimal_circle.cpp	minimal circle
+minkowski.cpp	minkowski Sum of Polygons
 
 
 [Data Structures]
 mo.cpp	Mo's algorithm
 segmentTrees.cpp	Segment Trees with lazy propagation
 segmentTreeLazy.java	Segment Trees with lazy propagation (Java)
-BIT.cc	Fenwick Tree
-UnionFind.cc	Union Find (Short)
+BIT.cpp	Fenwick Tree
 disjoint_set.cpp	Union Find
+persistent_treaps.cpp	Persistent Treaps
 
 
 [Strings]
-KMP.cc	KMP
-SuffixArray.cc	Suffix Array
-FFT.cc	Fast Fourier Transform (convolution)
+prefix_function.cpp	Prefix Function
+kmp_automata.cpp	KMP Automata
+suffix_array.cpp	Suffix Array
+trie.cpp	Trie
+hash.cpp	Hash
 
 [Flows]
-Ford__fulkerson_max_flow.cpp	Ford Fulkerson
-Edmons_Karp_Min_cut.cpp	Edmons Karp Min cut
-Hopcroft_karp-Maxmium_Bipartite_matching.cpp	Hopcroft karp's maximum bipartite matching
-bipartite_matching.cpp	Maxmium bipartite matching (short but slower)
+Ford_fulkerson.cpp	Ford Fulkerson
+Edmons_karp_min_cut.cpp	Edmons Karp Min cut
+Dinic_blocking_flow.cpp	Dinic's Blocking Flow
+push_relabel.cpp	Push Relabel
+Hopcroft_Karp.cpp	Hopcroft karp's maximum bipartite matching
+Hungarian_Bipartite.cpp	Hungarian's maximum bipartite matching
 
 [Math]
 math_general.cpp	general math tricks
 MillerRabin.cc	Miller Rabin's primality test
 Pollards_Rho.cpp	Pollard rho
-Euclid.cc	number theory general
+Number_theory.cpp	number theory general
 
 
-[Miscellaneous]
+[Others]
+FFT.cc	Fast Fourier Transform (convolution)
 IO.cc	c++ ios tricks
 JavaIO_binary.java	java IO template and iterative binary search

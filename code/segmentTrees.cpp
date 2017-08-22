@@ -1,24 +1,17 @@
 //querys and build takes O(log n)
 //example with segment sum
+//tested in AIZU online Judge
 #include<bits/stdc++.h>
 
 using namespace std;
 
 long long *p;
-//long long *lazy;
 
 struct SegmentTree{
     SegmentTree *L, *R;
     long long sum = 0;
     long long lazy = 0;
     int l, r;
-
-    long long query2(int a, int b){
-        if(a == l && b == r) return sum;
-        if(b <= L->r) return L->query(a,b);
-        if(a >= R->l) return R->query(a,b);
-        return (L->query2(a,L->r) + R->query2(R->l, b));
-    }
 
     void update(int a, int val){
         if(l == r){
@@ -33,22 +26,9 @@ struct SegmentTree{
         sum = L->sum + R->sum;
     }
 
-    void updateRange2(int a, int b, long long val){
-        if(b < l or a > r)
-            return;
-        if(l == r){
-            sum += val;
-            return;
-        }
-        L->updateRange2(a, b, val);
-        R->updateRange2(a,b,val);
-        sum = L->sum + R->sum;
-    }
-
     void updateRange(int a, int b, long long val){
         if(lazy != 0){
             sum += (r-l+1)*lazy;
-            //sum += lazy;
             if(l != r){
                 R->lazy = lazy + R->lazy;
                 L->lazy = lazy + L->lazy;
@@ -59,7 +39,6 @@ struct SegmentTree{
             return;
         if(l >= a && r <= b){
             sum += (r-l+1)*val;
-            //sum += val;
             if(l != r){
                 R->lazy = val + R->lazy;
                 L->lazy = val + L->lazy;
@@ -76,13 +55,13 @@ struct SegmentTree{
             return 0;
         if(lazy != 0){
             sum += (r-l+1)*lazy;
-            //sum += lazy;
             if(l != r){
                 R->lazy = lazy + R->lazy;
                 L->lazy = lazy + L->lazy;
             }
             lazy = 0;
         }
+        //this section can be used in non lazy segment tree
         if(a == l && b == r) return sum;
         if(b <= L->r) return L->query(a,b);
         if(a >= R->l) return R->query(a,b);

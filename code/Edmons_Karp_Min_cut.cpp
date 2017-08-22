@@ -1,75 +1,65 @@
-///------------------- Edmonds Karp with MinCut O(|V|*|E|^2) -------------------
-
-struct Network {
-
-	vector<Edge> G[TAM];
-	int from[TAM], n;
-	bool color[TAM];
-
+///------------------- O(|V|*|E|^2) -------------------///
+struct edge {
+	int v, cap, inv;
+	edge() {}
+	edge(int v, int cap, int inv) : v(v), cap(cap), inv(inv) {}
+};
+struct edmons_karp {
+	vector< vector<edge> > g;
+	vector<int> from;
+	vector<bool> color;
+	int n;
+	edmons_karp(int n) : n(n), g(n), color(n), from(n) {}
 	// Call flood (source) to color one node
 	// component of min cut.
-	void flood ( int node ) {
-		if ( color[node] ) return;
-		color[node] = true;
-		for ( const Edge& e : G[node] )
-			if ( e.cap > 0 )
-				flood ( e.to );
-	}
-
-	int maxFlow ( int A, int B )
-	{
-		int flow = 0;
-		while ( 1 ) {
-			memset ( from, -1, sizeof(from) );
-
-			queue<int> q;
-			q.push ( A );
-			from[A] = -2;
-			for ( int i; !q.empty(); q.pop() ) {
-				i = q.front();
-				for ( Edge& e : G[i] )
-					if ( from[e.to] == -1 && e.cap ) {
-						from[e.to] = e.invIdx;
-						q.push ( e.to );
-					}
-			}
-
-			if ( from[B] == -1 ) break;
-
-			int aug = INF_CAP;
-			for ( int i = B, j; i != A; i = j ) {
-				j = G[i][from[i]].to;
-				aug = min ( aug, G[j][ G[i][from[i]].invIdx ].cap );
-			}
-
-			for ( int i = B, j; i != A; i = j ) {
-				j = G[i][from[i]].to;
-				G[j][ G[i][from[i]].invIdx ].cap -= aug;
-				G[i][from[i]].cap += aug;
-			}
-
-			flow += aug;
+	void flood(int u) {
+		if (color[u]) return;
+		color[u] = true;
+		for(int i = 0; i < g[u].size(); i++) {
+            edge &e = g[u][i];
+			if (e.cap > 0)
+                flood(e.v);
 		}
-
-		return flow;
 	}
-
-	void addNonDirEdge ( int a, int b, int c ) {
-		assert ( a != b );
-		G[a].push_back ( Edge(b,c,G[b].size()) );
-		G[b].push_back ( Edge(a,c,G[a].size()-1) );
+	int max_flow(int s, int t) {
+		int res = 0;
+		while(1) {
+			fill(from.begin(), from.end(), -1);
+			queue<int> q;
+			q.push(s);
+			from[s] = -2;
+			for(int u; q.size(); q.pop()) {
+				u = q.front();
+				for(int i = 0; i < g[u].size(); i++) {
+                    edge &e = g[u][i];
+					if(from[e.v] == -1 && e.cap) {
+						from[e.v] = e.inv;
+						q.push(e.v);
+					}
+				}
+			}
+			if (from[t] == -1) break;
+			int aug = INT_MAX;
+			for (int i = t, j; i != s; i = j) {
+				j = g[i][ from[i] ].v;
+				aug = min(aug, g[j][ g[i][ from[i] ].inv ].cap);
+			}
+			for (int i = t, j; i != s; i = j) {
+				j = g[i][ from[i] ].v;
+				g[j][ g[i][from[i] ].inv ].cap -= aug;
+				g[i][ from[i] ].cap += aug;
+			}
+			res += aug;
+		}
+		return res;
 	}
-
-	void addDirEdge ( int a, int b, int c ) {
-		assert ( a != b );
-		G[a].push_back ( Edge(b,c,G[b].size()) );
-		G[b].push_back ( Edge(a,0,G[a].size()-1) );
+	void add_non_dir_edge(int a, int b, int c) {
+		g[a].push_back(edge(b, c, g[b].size()));
+		g[b].push_back(edge(a, c, g[a].size() - 1));
 	}
-
-	void clear ( int _n ) {
-		n = _n;
-		memset ( color, false, n );
-		for ( int i = 0; i < n; ++i )
-			G[i].clear();
+	void add_edge(int a, int b, int c) {
+		g[a].push_back(edge(b, c, g[b].size()));
+		g[b].push_back(edge(a, 0, g[a].size() - 1));
 	}
-} netw;
+};
+

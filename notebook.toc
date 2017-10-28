@@ -17,27 +17,28 @@
 \contentsline {subsection}{\numberline {2.6}Antipodal points}{7}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}Semiplane Intersection}{7}{subsection.2.7}
 \contentsline {subsection}{\numberline {2.8}Point inside a Polygon}{8}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}Convex Cut}{8}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}Polygon width}{8}{subsection.2.10}
-\contentsline {subsection}{\numberline {2.11}Sweep Line (Rectangles)}{9}{subsection.2.11}
-\contentsline {subsection}{\numberline {2.12}Rectilinear minimum spanning tree}{9}{subsection.2.12}
-\contentsline {subsection}{\numberline {2.13}Points 3d}{10}{subsection.2.13}
-\contentsline {subsection}{\numberline {2.14}Convex Hull 3d}{11}{subsection.2.14}
-\contentsline {subsection}{\numberline {2.15}intersections}{12}{subsection.2.15}
-\contentsline {subsection}{\numberline {2.16}minimal circle}{13}{subsection.2.16}
-\contentsline {subsection}{\numberline {2.17}minkowski Sum of Polygons}{13}{subsection.2.17}
+\contentsline {subsection}{\numberline {2.9}Convex Hull}{8}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Convex Cut}{8}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Convex Hull 3d}{9}{subsection.2.11}
+\contentsline {subsection}{\numberline {2.12}Polygon width}{10}{subsection.2.12}
+\contentsline {subsection}{\numberline {2.13}Sweep Line (Rectangles)}{11}{subsection.2.13}
+\contentsline {subsection}{\numberline {2.14}Rectilinear minimum spanning tree}{11}{subsection.2.14}
+\contentsline {subsection}{\numberline {2.15}Points 3d}{12}{subsection.2.15}
+\contentsline {subsection}{\numberline {2.16}intersections}{12}{subsection.2.16}
+\contentsline {subsection}{\numberline {2.17}minimal circle}{13}{subsection.2.17}
+\contentsline {subsection}{\numberline {2.18}minkowski Sum of Polygons}{14}{subsection.2.18}
 \contentsline {section}{\numberline {3}Data Structures}{14}{section.3}
 \contentsline {subsection}{\numberline {3.1}Mo's algorithm}{14}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Segment Trees with lazy propagation}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}Segment Trees with lazy propagation}{15}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Segment Trees with lazy propagation (Java)}{15}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Fenwick Tree}{16}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Union Find}{16}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Persistent Treaps}{16}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.6}Persistent Treaps}{17}{subsection.3.6}
 \contentsline {section}{\numberline {4}Strings}{18}{section.4}
 \contentsline {subsection}{\numberline {4.1}Prefix Function}{18}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}KMP Automata}{18}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Suffix Array}{18}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Trie}{18}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.4}Trie}{19}{subsection.4.4}
 \contentsline {subsection}{\numberline {4.5}Hash}{19}{subsection.4.5}
 \contentsline {section}{\numberline {5}Flows}{19}{section.5}
 \contentsline {subsection}{\numberline {5.1}Ford Fulkerson}{19}{subsection.5.1}
@@ -48,7 +49,7 @@
 \contentsline {subsection}{\numberline {5.6}Hungarian's maximum bipartite matching}{23}{subsection.5.6}
 \contentsline {section}{\numberline {6}Math}{23}{section.6}
 \contentsline {subsection}{\numberline {6.1}general math tricks}{23}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Miller Rabin's primality test}{23}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.2}Miller Rabin's primality test}{24}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}Pollard rho}{24}{subsection.6.3}
 \contentsline {subsection}{\numberline {6.4}number theory general}{25}{subsection.6.4}
 \contentsline {section}{\numberline {7}Others}{26}{section.7}

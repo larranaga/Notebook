@@ -1,15 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  26 JUL 2017 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 OCT 2017 01:03
 entering extended mode
-**./notebook.tex
-(notebook.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**notebook.tex
+(./notebook.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\exscale.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -30,21 +32,21 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -59,16 +61,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -107,22 +108,22 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen112
 \Hy@linkcounter=\count90
 \Hy@pagecounter=\count91
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count92
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4498.
@@ -134,7 +135,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count93
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -159,32 +160,31 @@ LaTeX Info: Redefining \pageref on input line 6432.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 \c@bookmark@seq@number=\count99
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip44
-\f@nch@O@elh=\skip45
-\f@nch@O@erh=\skip46
-\f@nch@O@olh=\skip47
-\f@nch@O@orh=\skip48
-\f@nch@O@elf=\skip49
-\f@nch@O@erf=\skip50
-\f@nch@O@olf=\skip51
-\f@nch@O@orf=\skip52
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count100
 \lst@gtempboxa=\box26
 \lst@token=\toks16
@@ -198,26 +198,26 @@ s
 \lst@lineno=\count105
 \lst@maxwidth=\dimen119
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count106
 \lst@skipnumbers=\count107
 \lst@framebox=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 \Gread@gobject=\count108
 )
@@ -231,7 +231,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 44.
 \cftparskip=\skip53
@@ -268,26 +268,26 @@ Package tocloft Info: The document has section divisions on input line 44.
 \cfttabindent=\skip82
 \cfttabnumwidth=\skip83
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 ))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count111
 \mult@box=\box28
@@ -340,7 +340,7 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 LaTeX Warning: Unused global option(s):
     [pt].
 
-(notebook.aux)
+(./notebook.aux)
 \openout1 = `notebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
@@ -394,10 +394,10 @@ LaTeX Font Info:    ... okay on input line 71.
 
 \AtBeginShipoutBox=\box54
 Package hyperref Info: Link coloring OFF on input line 71.
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count120
@@ -406,13 +406,13 @@ LaTeX Info: Redefining \ref on input line 71.
 LaTeX Info: Redefining \pageref on input line 71.
 LaTeX Info: Redefining \nameref on input line 71.
 
-(notebook.out) (notebook.out)
+(./notebook.out) (./notebook.out)
 \@outlinefile=\write3
 \openout3 = `notebook.out'.
 
 \c@lstlisting=\count121
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count122
 \scratchdimen=\dimen129
@@ -425,10 +425,10 @@ LaTeX Info: Redefining \nameref on input line 71.
 \MPnumerator=\count126
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks18
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -437,10 +437,15 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 76.
- (notebook.toc
+
+(./notebook.toc
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex7' loaded for size
@@ -449,52 +454,55 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 \tf@toc=\write4
 \openout4 = `notebook.toc'.
 
-
-(contents.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+ (./contents.tex
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 3.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 3.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-(code/articulation_points.cpp
+(./code/articulation_points.cpp
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <8.5> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8.5> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 11.
-) (code/biconected_graph.cpp
+) (./code/biconected_graph.cpp
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 20.
+(Font)              size <8> substituted on input line 18.
 
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (code/Bridges.cpp)
-(code/tarjan_scc.cpp) (code/bellmanFord.cpp [2]) (code/EulerianPath.cc)
-(code/toposort.cpp) [3] (code/minimum_spanning_tree.cpp) (code/LCA.cc [4])
-(code/basics.cpp) (code/circle.cpp [5]) (code/centroid.cpp [6])
-(code/closest_pair_points.cpp) (code/area2_pol.cpp) (code/antipodal_points.cpp)
-(code/semiplane_intersection.cpp [7]) (code/contains.cpp) (code/convex_cut.cpp)
-(code/polygon_width.cpp [8]) (code/rectangle_union.cpp)
-(code/rectilinear_mst.cpp [9]) (code/point3d.cpp [10]) (code/convex_hull3d.cpp
-[11]) (code/line_segment_intersections.cpp [12]) (code/minimal_circle.cpp)
-(code/minkowski.cpp [13]) (code/mo.cpp) (code/segmentTrees.cpp [14])
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+])
+(./code/Bridges.cpp) (./code/tarjan_scc.cpp) [2] (./code/bellmanFord.cpp)
+(./code/EulerianPath.cc) (./code/toposort.cpp) [3]
+(./code/minimum_spanning_tree.cpp) (./code/LCA.cc [4]) (./code/basics.cpp)
+(./code/circle.cpp [5]) (./code/centroid.cpp [6])
+(./code/closest_pair_points.cpp) (./code/area2_pol.cpp)
+(./code/antipodal_points.cpp) (./code/semiplane_intersection.cpp [7])
+(./code/contains.cpp) (./code/convex_hull.cpp) (./code/convex_cut.cpp [8])
+(./code/convex_hull3d.cpp [9]) (./code/polygon_width.cpp) [10]
+(./code/rectangle_union.cpp) (./code/rectilinear_mst.cpp [11])
+(./code/point3d.cpp) (./code/line_segment_intersections.cpp [12])
+(./code/minimal_circle.cpp [13]) (./code/minkowski.cpp) (./code/mo.cpp)
+[14] (./code/segmentTrees.cpp)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(code/segmentTreeLazy.java [15]) (code/BIT.cpp) (code/disjoint_set.cpp)
-(code/persistent_treaps.cpp [16] [17]) (code/prefix_function.cpp)
-(code/kmp_automata.cpp
+(./code/segmentTreeLazy.java [15]) (./code/BIT.cpp) (./code/disjoint_set.cpp
+[16]) (./code/persistent_treaps.cpp [17]) (./code/prefix_function.cpp)
+(./code/kmp_automata.cpp
 Missing character: There is no Ð in font pcrro7t!
 Missing character: There is no ² in font pcrro7t!
 Missing character: There is no Ñ in font pcrro7t!
@@ -593,7 +601,7 @@ Missing character: There is no Ñ in font pcrro7t!
 Missing character: There is no ˆ in font pcrro7t!
 Missing character: There is no Ð in font pcrro7t!
 Missing character: There is no µ in font pcrro7t!
-) (code/suffix_array.cpp) (code/trie.cpp
+) (./code/suffix_array.cpp [18]) (./code/trie.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no ± in font pcrro7t!
 Missing character: There is no Ã in font pcrro7t!
@@ -602,7 +610,6 @@ Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no º in font pcrro7t!
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no ¡ in font pcrro7t!
- [18]
 Missing character: There is no Ð in font pcrro7t!
 Missing character: There is no ² in font pcrro7t!
 Missing character: There is no Ð in font pcrro7t!
@@ -648,28 +655,30 @@ Missing character: There is no ‚ in font pcrro7t!
 Missing character: There is no Ð in font pcrro7t!
 Missing character: There is no ° in font pcrro7t!
 )
-(code/hash.cpp) (code/Ford_fulkerson.cpp [19]) (code/Edmons_karp_min_cut.cpp)
-(code/Dinic_blocking_flow.cpp [20]) (code/push_relabel.cpp [21])
-(code/Hopcroft_Karp.cpp [22]) (code/Hungarian_Bipartite.cpp)
-(code/math_general.cpp
+(./code/hash.cpp) (./code/Ford_fulkerson.cpp [19])
+(./code/Edmons_karp_min_cut.cpp) (./code/Dinic_blocking_flow.cpp [20])
+(./code/push_relabel.cpp [21]) (./code/Hopcroft_Karp.cpp [22])
+(./code/Hungarian_Bipartite.cpp) (./code/math_general.cpp
+Missing character: There is no Ã in font pcrro7t!
+Missing character: There is no ¡ in font pcrro7t!
+ [23]
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no ¡ in font pcrro7t!
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no ¡ in font pcrro7t!
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no ¡ in font pcrro7t!
-Missing character: There is no Ã in font pcrro7t!
-Missing character: There is no ¡ in font pcrro7t!
-) (code/MillerRabin.cc [23]) (code/Pollards_Rho.cpp
-[24]) (code/Number_theory.cpp [25]) (code/FFT.cc [26]) (code/IO.cc)
-(code/JavaIO_binary.java)) [27]
+)
+(./code/MillerRabin.cc) (./code/Pollards_Rho.cpp [24])
+(./code/Number_theory.cpp [25]) (./code/FFT.cc [26]) (./code/IO.cc)
+(./code/JavaIO_binary.java [27])) [28]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
- (notebook.aux)
+ (./notebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: 49D6AC728FF66B894E800AB9DB4528EA;3788.
+(rerunfilecheck)             Checksum: 840A1B2A50E0B1D961031F7B2B69CDCC;3793.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -678,25 +687,27 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 12691 strings out of 493323
- 185683 string characters out of 3139066
- 928396 words of memory out of 3000000
- 12637 multiletter control sequences out of 15000+200000
- 10216 words of font info for 37 fonts, out of 3000000 for 9000
+ 12714 strings out of 492995
+ 186791 string characters out of 6132704
+ 672476 words of memory out of 5000000
+ 12653 multiletter control sequences out of 15000+600000
+ 10216 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,68p,257b,1947s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (27 pages, 700950 bytes).
+ 40i,12n,68p,255b,1943s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts
+/type1/urw/courier/ucrro8a.pfb>
+Output written on notebook.pdf (28 pages, 299686 bytes).
 PDF statistics:
- 4387 PDF objects out of 5155 (max. 8388607)
- 3356 named destinations out of 3580 (max. 500000)
- 457 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4461 PDF objects out of 5155 (max. 8388607)
+ 4378 compressed objects within 44 object streams
+ 3375 named destinations out of 3580 (max. 500000)
+ 465 words of extra memory for PDF output out of 10000 (max. 10000000)
 

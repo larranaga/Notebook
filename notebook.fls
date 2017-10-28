@@ -1,81 +1,81 @@
-PWD F:/c/notebook/Notebook
-INPUT C:/Users/larra/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+PWD /Users/larra/Notebook
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT notebook.tex
 OUTPUT notebook.log
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/extsizes/extarticle.cls
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/extsizes/extarticle.cls
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/exscale.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/exscale.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/url/url.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/url/url.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/listings.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/listings.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/listings.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/listings.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tocloft/tocloft.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tocloft/tocloft.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/pdflscape.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/pdflscape.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/lscape.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/lscape.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphics.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphics.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/trig.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/trig.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/multicol.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/extarticle.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/extarticle.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/exscale.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/exscale.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
 INPUT notebook.aux
 INPUT notebook.aux
 OUTPUT notebook.aux
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT notebook.out
 INPUT notebook.out
 INPUT notebook.out
@@ -84,57 +84,60 @@ OUTPUT notebook.pdf
 INPUT ./notebook.out
 INPUT ./notebook.out
 OUTPUT notebook.out
-INPUT C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
-INPUT C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT notebook.toc
 INPUT notebook.toc
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT notebook.toc
 INPUT contents.tex
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT code/articulation_points.cpp
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ot1pcr.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ot1pcr.fd
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrr7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
 INPUT code/articulation_points.cpp
 INPUT code/articulation_points.cpp
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrro7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrb7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrro7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm
 INPUT code/biconected_graph.cpp
 INPUT code/biconected_graph.cpp
 INPUT code/biconected_graph.cpp
-INPUT C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/courier/pcrro7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrro8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/courier/pcrb7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrb8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/courier/pcrr7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrro7t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrro8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrb7t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT code/Bridges.cpp
 INPUT code/Bridges.cpp
 INPUT code/Bridges.cpp
@@ -180,9 +183,15 @@ INPUT code/semiplane_intersection.cpp
 INPUT code/contains.cpp
 INPUT code/contains.cpp
 INPUT code/contains.cpp
+INPUT code/convex_hull.cpp
+INPUT code/convex_hull.cpp
+INPUT code/convex_hull.cpp
 INPUT code/convex_cut.cpp
 INPUT code/convex_cut.cpp
 INPUT code/convex_cut.cpp
+INPUT code/convex_hull3d.cpp
+INPUT code/convex_hull3d.cpp
+INPUT code/convex_hull3d.cpp
 INPUT code/polygon_width.cpp
 INPUT code/polygon_width.cpp
 INPUT code/polygon_width.cpp
@@ -195,9 +204,6 @@ INPUT code/rectilinear_mst.cpp
 INPUT code/point3d.cpp
 INPUT code/point3d.cpp
 INPUT code/point3d.cpp
-INPUT code/convex_hull3d.cpp
-INPUT code/convex_hull3d.cpp
-INPUT code/convex_hull3d.cpp
 INPUT code/line_segment_intersections.cpp
 INPUT code/line_segment_intersections.cpp
 INPUT code/line_segment_intersections.cpp
@@ -214,8 +220,8 @@ INPUT code/segmentTrees.cpp
 INPUT code/segmentTrees.cpp
 INPUT code/segmentTrees.cpp
 INPUT code/segmentTreeLazy.java
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT code/segmentTreeLazy.java
 INPUT code/segmentTreeLazy.java
 INPUT code/BIT.cpp
@@ -284,22 +290,13 @@ INPUT code/JavaIO_binary.java
 INPUT notebook.aux
 INPUT ./notebook.out
 INPUT ./notebook.out
-INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrro8a.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrro8a.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb
